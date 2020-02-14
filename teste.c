@@ -14,7 +14,7 @@ int main(){
         printf("\n\tO número %i é IMPAR ", num);
     }
     
-    printf("\n\n");
+    printf("\n");
 
     return 0;
 }
